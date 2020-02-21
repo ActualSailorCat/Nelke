@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Civilization, Leader -->
+		<Replace Tag="LOC_CIVILIZATION_VESTBALT_NAME" Language="en_US">
+			<Text>Vestbalt</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VESTBALT_DESCRIPTION" Language="en_US">
+			<Text>Vestbalt</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VESTBALT_ADJECTIVE" Language="en_US">
+			<Text>Vestbalt</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VESTBALT_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Vestbalt</Text>
+		</Replace>
+
+		<Replace Tag="LOC_LEADER_AMZ_NELKE_NAME" Language="en_US">
+			<Text>Nelke von Lestamm</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_AMZ_NELKE" Language="en_US">
+			<Text>Nelke von Lestamm! Many an alchemist has gathered to lend you their aid. Use the power of alchemy to reclaim your territory, and your economy will grow such that Vestbalt becomes the center of the world.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_VESTBALT_NAME" Language="en_US">
+			<Text>Tree Of Granzweit</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_VESTBALT_DESCRIPTION" Language="en_US">
+			<Text>+50 [ICON_Favor] Diplomatic Favor upon recruiting a [ICON_GreatPerson] Great Person. [ICON_Citizen] Citizens may work Mountain tiles after researching the Guilds civic. Mountain tiles provide +3 [ICON_Production] Production, increased to +5 with the Natural History civic.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_LEADER_AMZ_NELKE_NAME" Language="en_US">
+			<Text>Nelke & the Legendary Alchemists</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_AMZ_NELKE_DESCRIPTION" Language="en_US">
+			<Text>+50% [ICON_GreatPerson] Great Person scores from all sources.</Text>
+		</Replace>
+
+		<!-- Citizen name list -->
+		<Replace Tag="LOC_CITIZEN_VESTBALT_MALE_1" Language="en_US">
+			<Text>Knoss</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_VESTBALT_MALE_2" Language="en_US">
+			<Text>Lotus</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_VESTBALT_MALE_3" Language="en_US">
+			<Text>Hagel</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_VESTBALT_MALE_4" Language="en_US">
+			<Text>Klein</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_VESTBALT_MALE_5" Language="en_US">
+			<Text>Felt</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_VESTBALT_FEMALE_1" Language="en_US">
+			<Text>Misty</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_VESTBALT_FEMALE_2" Language="en_US">
+			<Text>Pamela</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_VESTBALT_FEMALE_3" Language="en_US">
+			<Text>Marlone</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_VESTBALT_FEMALE_4" Language="en_US">
+			<Text>Elfir</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_VESTBALT_FEMALE_5" Language="en_US">
+			<Text>Lilie</Text>
+		</Replace>
+
+		<!-- city name list -->
+		<Replace Tag="LOC_CIVLIZATION_VESTBALT_CITY_1" Language="en_US">
+			<Text>Vestbalt</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVLIZATION_VESTBALT_CITY_2" Language="en_US">
+			<Text>Salburg</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVLIZATION_VESTBALT_CITY_3" Language="en_US">
+			<Text>Gramnad</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVLIZATION_VESTBALT_CITY_4" Language="en_US">
+			<Text>Iris</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVLIZATION_VESTBALT_CITY_5" Language="en_US">
+			<Text>Mana Khemia</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVLIZATION_VESTBALT_CITY_6" Language="en_US">
+			<Text>Arland</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVLIZATION_VESTBALT_CITY_7" Language="en_US">
+			<Text>Kolseit</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVLIZATION_VESTBALT_CITY_8" Language="en_US">
+			<Text>Stellard</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVLIZATION_VESTBALT_CITY_9" Language="en_US">
+			<Text>Kirchen Bell</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVLIZATION_VESTBALT_CITY_10" Language="en_US">
+			<Text>Adalet</Text>
+		</Replace>
+
+		<!-- civinfo text -->
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VESTBALT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Nellke & the Legendary Alchemists is a game that celebrates the 20th anniversary of Gust's Atelier series.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_CIVILIZATION_VESTBALT_LOCATION" Language="en_US">
+			<Text>Vestbalt</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_CIVILIZATION_VESTBALT_SIZE" Language="en_US">
+			<Text>Unknown</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_CIVILIZATION_VESTBALT_POPULATION" Language="en_US">
+			<Text>Unknown</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_CIVILIZATION_VESTBALT_CAPITAL" Language="en_US">
+			<Text>Vestbalt</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMZ_NELKE_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Nelke achieves progress with the help of Alchemists and the power their Ateliers. Thanks to her charisma and ingenuity, a variety of [ICON_GreatPerson] Great People have been attracted to her.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMZ_NELKE_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Ateliers of the New World offers [ICON_TradeRoute] Trade Routes and [ICON_GOLD] Gold to help invigorate the economy from the outset, expanding to [ICON_SCIENCE] Science and [ICON_CULTURE] Culture with research. The [ICON_GreatPerson] Great People who gather along the way offer a wide range of help, and the [ICON_Favor] Diplomatic Favor they generate helps to win over the World Congress.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMZ_NELKE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Nelke graduated from the academy in Wangdo at the head of her class. She admired the alchemy, but had no talent as an alchemist. So she is looking for ways to help people as an aristrocrat by recruiting alchemists.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_AMZ_NELKE_QUOTE" Language="en_US">
+			<Text>Alchemists, lend me your strength!</Text>
+		</Replace>
+
+		<!-- Leader Agenda -->
+		<Replace Tag="LOC_AGENDA_AMZ_NELKE_NAME" Language="en_US">
+			<Text>Aristocrat Nelke</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_AMZ_NELKE_DESCRIPTION" Language="en_US">
+			<Text>Nelke likes civilizations that are easy friends and allies, and dislikes those that attack her neighbors.</Text>
+		</Replace>
+		
+		<!-- Leader Dialogue -->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_AMZ_NELKE_ANY" Language="en_US">
+			<Text>Hello! My name is Nelke von Lestamm.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AMZ_NELKE_ANY" Language="en_US">
+			<Text>Would you like to visit Vestbalt? Many alchemists will welcome you!</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AMZ_NELKE_ANY" Language="en_US">
+			<Text>Wow! Thank you!</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AMZ_NELKE_ANY" Language="en_US">
+			<Text>You're a valued friend, for which I am grateful. Let's forge a prosperous alliance with one another!</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AMZ_NELKE_ANY" Language="en_US">
+			<Text>You gain nothing from needless warmongering. Why don't you pursue peace?</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_AMZ_NELKE_LIKE" Language="en_US">
+			<Text>Nelke is pleased with your friendship.</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_DIPLO_MODIFIER_AMZ_NELKE_HATE" Language="en_US">
+			<Text>Nelke hates your warmongering.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

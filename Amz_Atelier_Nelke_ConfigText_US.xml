@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Civilization Config -->
+		<Row Tag="LOC_CIVILIZATION_VESTBALT_NAME" Language="en_US">
+			<Text>Vestbalt</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_VESTBALT_DESCRIPTION" Language="en_US">
+			<Text>Tree Of Granzweit</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_VESTBALT_ADJECTIVE" Language="en_US">
+			<Text>Vestbalt's</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_VESTBALT_NAME" Language="en_US">
+			<Text>Tree Of Granzweit</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_VESTBALT_DESCRIPTION" Language="en_US">
+			<Text>+50 [ICON_Favor] Diplomatic Favor upon recruiting a [ICON_GreatPerson] Great Person. [ICON_Citizen] Citizens may work Mountain tiles after researching the Guilds civic. Mountain tiles provide +3 [ICON_Production] Production, increased to +5 with the Natural History civic.</Text>
+		</Row>
+
+		<!-- Leader Config -->
+		<Row Tag="LOC_LEADER_AMZ_NELKE_NAME" Language="en_US">
+			<Text>Nelke</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_LEADER_AMZ_NELKE_NAME" Language="en_US">
+			<Text>Nelke & the Legendary Alchemists</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_AMZ_NELKE_DESCRIPTION" Language="en_US">
+			<Text>+50% [ICON_GreatPerson] Great Person scores from all sources.</Text>
+		</Row>
+
+		<!-- UI Config -->
+		<Row Tag="LOC_IMPROVEMENT_AMZ_NEW_ATELIER_NAME" Language="en_US">
+			<Text>Ateliers of the New World</Text>
+		</Row>
+
+		<Row Tag="LOC_IMPROVEMENT_AMZ_NEW_ATELIER_DESCRIPTION" Language="en_US">
+			<Text>Unlock the Builder ability to construct an Atelier of the New World, unique to Vestbalt.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Trade Route and +2 [ICON_Housing] Housing. +1 [ICON_GOLD] Gold to adjacent tiles. Provides an additional +1 [ICON_SCIENCE] Science and +1 [ICON_Culture] Culture to adjacent tiles after researching the Education technology. Limited to one per city, and cannot be worked by [ICON_Citizen] Citizens. </Text>
+		</Row>
+
+		<!-- UU Config -->
+		<Row Tag="LOC_UNIT_AMZ_VB_KNIGHT_NAME" Language="en_US">
+			<Text>Vestbalt's Knight</Text>
+		</Row>
+		
+		<Row Tag="LOC_UNIT_AMZ_VB_KNIGHT_DESCRIPTION" Language="en_US">
+			<Text>Vestbalt unique Medieval era melee unit. High [ICON_Strength] Combat Strength and increased [ICON_Movement] Movement.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
